@@ -1,4 +1,7 @@
+HEAD
 touch hello_world.txt
 bubabubabuba
 afhosnanfaf
 asfiuhasf
+test change
+3788bcd (Manual change to hello_world.txt)
